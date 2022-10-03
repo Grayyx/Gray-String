@@ -1,7 +1,7 @@
 {
   "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://telegra.ph/file/842c45cad95ec37b1b50d.jpg",
+  "logo": "https://telegra.ph/file/3e3cade421a84b047ba38.jpg",
   "stack": "heroku-22",
   "keywords": [
     "telegram",
@@ -26,7 +26,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/damsyx/ZetsuString",
+  "repository": "https://github.com/Grayyx/Gray-String",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -51,7 +51,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "damprivateroom"
+      "value": "GrayStoreee1"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
